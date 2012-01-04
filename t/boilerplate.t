@@ -45,4 +45,4 @@ sub module_boilerplate_ok {
     );
 }
 
-module_boilerplate_ok('lib/Data/Validate/WithYAML/Plugin/EMail.pm');
+module_boilerplate_ok('lib/Data/Validate/WithYAML/Plugin/NoSpam.pm');

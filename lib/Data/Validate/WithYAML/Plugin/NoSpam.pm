@@ -5,9 +5,7 @@ use strict;
 
 use Carp;
 
-=head1 NAME
-
-Data::Validate::WithYAML::Plugin::NoSpam - Plugin to check that a given text is no spam.
+# ABSTRACT: Plugin to check that a given text is no spam.
 
 =head1 VERSION
 
