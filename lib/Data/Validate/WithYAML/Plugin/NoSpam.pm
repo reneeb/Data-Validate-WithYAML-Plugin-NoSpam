@@ -7,7 +7,7 @@ use Carp;
 
 # ABSTRACT: Plugin to check that a given text is no spam.
 
-our $VERSION = '0.03';
+our $VERSION = 0.04;
 
 =head1 SYNOPSIS
 
